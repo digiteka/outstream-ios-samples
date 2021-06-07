@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DigitekaSDK",
+        "repositoryURL": "https://github.com/digiteka/outstream-ios-sdk",
+        "state": {
+          "branch": null,
+          "revision": "b8e692e9a5da07dec85170e22467d489e0b1ccad",
+          "version": "1.0.0"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
